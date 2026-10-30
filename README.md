@@ -21,4 +21,4 @@ Activity sensing and AI diary generation were built by my teammates; the demo vi
 | `DailySense_Video_Poster.jpg` | Cover frame of the demo video |
 
 ## Building
-Unzip the project, open it in Android Studio and run it on an Android device or emulator. AI diary generation needs your own API key; none is included.
+Unzip the project, open it in Android Studio and run it on an Android device or emulator. AI diary generation needs your own API key: replace `REPLACE_WITH_YOUR_OWN_KEY` in `util/ApiUtil.java`. No real key is included.
